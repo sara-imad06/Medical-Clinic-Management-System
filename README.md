@@ -261,7 +261,3 @@ Phase II extends the functionality of Phase I by introducing:
 - Exception handling for possible errors.
 
 ---
-
-# Authors
-
-Java OOP Project
