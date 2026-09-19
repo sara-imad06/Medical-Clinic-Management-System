@@ -261,3 +261,10 @@ Phase II extends the functionality of Phase I by introducing:
 - Exception handling for possible errors.
 
 ---
+
+
+# UML Class Diagram
+
+The UML class diagram for the Medical Clinic Management System is available below:
+
+[View the UML Class Diagram (PDF)](UML_Project.drawio)
